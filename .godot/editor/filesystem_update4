@@ -1,0 +1,5 @@
+res://scenes/main.tscn
+res://scenes/bird.tscn
+res://scenes/ground.tscn
+res://scenes/pipe.tscn
+res://scenes/game_over.tscn
