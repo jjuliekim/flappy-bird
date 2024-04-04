@@ -93,7 +93,7 @@ func check_top():
 func stop_game():
 	$PipeTimer.stop()
 	$GameOver.show()
-	$Bird.flying = false
+	$Bird.flying = false 
 	game_running = false
 	game_over = true
 
